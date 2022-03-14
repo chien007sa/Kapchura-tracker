@@ -1,3 +1,5 @@
+![Kapchura logo](./Kapchura_logo.png)
+
 # Kapchura tracker
 Kapchura is an intelligent B2B sales marketing solution that personalizes the lead generation process while maximizing the potential for successful customer engagements.
 \
