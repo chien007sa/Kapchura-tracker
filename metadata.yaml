@@ -15,5 +15,5 @@
 homepage: "https://www.sparkamplify.com"
 documentation: "https://github.com/chien007sa/Kapchura-tracker"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
-    changeNotes: Initial Version
+  - sha: 213771d26cb37fd27e36ea7ae5167788bfb473ad
+    changeNotes: inital release
